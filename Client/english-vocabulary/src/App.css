@@ -1,0 +1,43 @@
+h1 {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#vocabulary-show {
+    font-size: 30px;
+    width: 100%;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+}
+
+.row {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#btn-start {
+    width: 100%;
+    height: 100%;
+}
+
+#text-answer {
+    width: 100%;
+    height: 100%;
+}
+
+.none-answer {
+
+}
+
+.correct-answer {
+    background-color: chartreuse;
+    color: rgb(214, 14, 14);
+}
+
+.wrong-answer {
+    background-color: rgb(224, 45, 45);
+    color: chartreuse;
+}

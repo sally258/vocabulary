@@ -1,0 +1,426 @@
+{
+    "gật đầu": [
+        "nod"
+    ],
+    "khóc": [
+        "cry"
+    ],
+    "hôn": [
+        "kiss"
+    ],
+    "cười lớn": [
+        "laugh"
+    ],
+    "nhăn mặt": [
+        "frown"
+    ],
+    "ngáp": [
+        "yawn"
+    ],
+    "diễn": [
+        "act"
+    ],
+    "vỗ tay": [
+        "clap"
+    ],
+    "làm báo cáo": [
+        "do the report"
+    ],
+    "kí hợp đồng": [
+        "sign the contract"
+    ],
+    "có cuộc họp": [
+        "have a meeting"
+    ],
+    "thông qua, xuyên qua": [
+        "through"
+    ],
+    "mặc dù": [
+        "though"
+    ],
+    "rồi": [
+        "already"
+    ],
+    "chưa": [
+        "yet"
+    ],
+    "thỉnh thoảng": [
+        "sometimes"
+    ],
+    "thông báo": [
+        "notify"
+    ],
+    "nước ngọt có ga": [
+        "soft drinks"
+    ],
+    "thông qua": [
+        "through"
+    ],
+    "xuyên qua": [
+        "through"
+    ],
+    "chuồng chó": [
+        "doghouse"
+    ],
+    "nhà kính": [
+        "greenhouse"
+    ],
+    "bảo tàng": [
+        "museum"
+    ],
+    "khăn quàng cổ": [
+        "scarf"
+    ],
+    "cà vạt": [
+        "tie"
+    ],
+    "thắt, buộc": [
+        "tie"
+    ],
+    "bên cạnh": [
+        "next to",
+        "beside"
+    ],
+    "phía sau": [
+        "behind"
+    ],
+    "bàn phím": [
+        "keyboard"
+    ],
+    "bật": [
+        "turn on",
+        "switch on"
+    ],
+    "tắt": [
+        "turn off",
+        "switch off"
+    ],
+    "trước đây": [
+        "sometime"
+    ],
+    "một lúc nào đó": [
+        "sometime"
+    ],
+    "nhiệt độ nóng": [
+        "heat"
+    ],
+    "ánh sáng": [
+        "light"
+    ],
+    "bóng đèn": [
+        "light"
+    ],
+    "thắp sáng": [
+        "light"
+    ],
+    "nhẹ": [
+        "light"
+    ],
+    "thức dậy": [
+        "wake up"
+    ],
+    "cái quạt": [
+        "fan"
+    ],
+    "chiều cao": [
+        "height"
+    ],
+    "máy photo": [
+        "photocopier"
+    ],
+    "chụp hình": [
+        "take photo"
+    ],
+    "phô tô": [
+        "make photocopies"
+    ],
+    "lễ tân": [
+        "receptionist"
+    ],
+    "xe điện ngầm": [
+        "subway"
+    ],
+    "nơi làm việc": [
+        "workplace"
+    ],
+    "bản cắt": [
+        "shortcut"
+    ],
+    "tổng": [
+        "total"
+    ],
+    "gậy đánh gôn": [
+        "golf club"
+    ],
+    "câu lạc bộ gôn": [
+        "golf club"
+    ],
+    "tạp chí": [
+        "magazine"
+    ],
+    "đi bộ": [
+        "jog"
+    ],
+    "trượt ván": [
+        "skate"
+    ],
+    "tổ chức": [
+        "hold"
+    ],
+    "thử": [
+        "try on"
+    ],
+    "đếm": [
+        "count"
+    ],
+    "trả (tiền)": [
+        "pay"
+    ],
+    "rửa, gội, giặt": [
+        "wash"
+    ],
+    "thú nuôi": [
+        "pet"
+    ],
+    "cho mượn, cho vay": [
+        "lend"
+    ],
+    "mượn, vay": [
+        "borrow"
+    ],
+    "nghỉ trưa": [
+        "take a nap"
+    ],
+    "bạn cùng lớp": [
+        "classmate"
+    ],
+    "sở hữu": [
+        "own"
+    ],
+    "của riêng mình": [
+        "own"
+    ],
+    "cửa hàng bách hóa": [
+        "department store"
+    ],
+    "diễn viên nam": [
+        "actor"
+    ],
+    "diễn viên nữ": [
+        "actress"
+    ],
+    "sự chú ý": [
+        "attention"
+    ],
+    "nhắc nhở": [
+        "remind"
+    ],
+    "hàng năm": [
+        "annually",
+        "yearly",
+        "annual"
+    ],
+    "cung cấp": [
+        "provide"
+    ],
+    "giải thưởng": [
+        "prize"
+    ],
+    "bbq": [
+        "barbecue"
+    ],
+    "sửa chữa": [
+        "fix",
+        "repair"
+    ],
+    "sự bổ nhiệm": [
+        "appointment"
+    ],
+    "cuộc hẹn": [
+        "appointment"
+    ],
+    "lời hứa": [
+        "promise"
+    ],
+    "hứa": [
+        "promise"
+    ],
+    "làm quen": [
+        "get used to"
+    ],
+    "đã từng": [
+        "used to"
+    ],
+    "quét (nhà)": [
+        "sweep"
+    ],
+    "xây dựng": [
+        "construct"
+    ],
+    "sự xây dựng": [
+        "construction"
+    ],
+    "mang tính xây dựng": [
+        "constructive"
+    ],
+    "kiên nhẫn": [
+        "patient"
+    ],
+    "bệnh nhân": [
+        "patient"
+    ],
+    "màn hình": [
+        "screen",
+        "monitor"
+    ],
+    "giám sát": [
+        "monitor"
+    ],
+    "tủ lạnh": [
+        "refrigerator"
+    ],
+    "đề nghị đặc biệt": [
+        "special offer"
+    ],
+    "riêng tư": [
+        "private"
+    ],
+    "cá nhân": [
+        "private"
+    ],
+    "gia sư": [
+        "tutor"
+    ],
+    "tập trung": [
+        "focus on",
+        "concentrate on"
+    ],
+    "sẵn sàng": [
+        "be willing to"
+    ],
+    "đá": [
+        "kick"
+    ],
+    "chèo": [
+        "row"
+    ],
+    "một hàng ngang": [
+        "row",
+        "in a row"
+    ],
+    "giãn cơ": [
+        "stretch"
+    ],
+    "thú vị, hay ho": [
+        "fun"
+    ],
+    "hài hước": [
+        "funny"
+    ],
+    "nếu bạn không phiền": [
+        "would you mind"
+    ],
+    "bắt xe buýt": [
+        "take the bus"
+    ],
+    "lên xe buýt": [
+        "get on the bus"
+    ],
+    "phòng họp": [
+        "meeting room"
+    ],
+    "con diều": [
+        "kite"
+    ],
+    "nhà thờ": [
+        "church"
+    ],
+    "bóng bay": [
+        "balloon"
+    ],
+    "góc": [
+        "corner"
+    ],
+    "rèm": [
+        "curtain"
+    ],
+    "sáng sủa": [
+        "bright"
+    ],
+    "căng thẳng": [
+        "stress",
+        "stressful"
+    ],
+    "hội nghị": [
+        "conference"
+    ],
+    "hoãn lại, trì hoãn": [
+        "postpone"
+    ],
+    "hư tổn": [
+        "damage"
+    ],
+    "có sẵn / có mặt": [
+        "available"
+    ],
+    "tia chớp": [
+        "lightning"
+    ],
+    "nơi gặp gỡ": [
+        "venue"
+    ],
+    "căn nguyên / nguyên bản": [
+        "original"
+    ],
+    "đo lường": [
+        "measure"
+    ],
+    "phục vụ": [
+        "serve"
+    ],
+    "bao, bao bọc": [
+        "wrap"
+    ],
+    "đánh máy": [
+        "type"
+    ],
+    "thiết kế": [
+        "design"
+    ],
+    "giao hàng": [
+        "deliver"
+    ],
+    "người chủ": [
+        "employer"
+    ],
+    "nhân viên": [
+        "employee"
+    ],
+    "thuyền": [
+        "boat"
+    ],
+    "trượt băng": [
+        "ski"
+    ],
+    "nhảy": [
+        "jump"
+    ],
+    "bán": [
+        "sell"
+    ],
+    "dự án": [
+        "project"
+    ],
+    "thuyết trình": [
+        "presentation"
+    ],
+    "sự tiện lợi": [
+        "convenience"
+    ],
+    "sự bất lợi": [
+        "inconvenience"
+    ],
+    "hành khách": [
+        "passenger"
+    ]
+}
